@@ -1,11 +1,6 @@
 [Dashboard](https://github.com/Chatterjee18/Telecom-Domain-Analysis/blob/926c0c5ee14c690e8dddb2492b965cff8b95695d/AtliQ%20Telecom.pdf)
 
 [Live Dashboard](https://app.powerbi.com/groups/me/reports/3ef71c74-9d58-4d97-8454-2e5dd401c98a/b4fdd2effe38c4f0ef66?experience=power-bi)
-
-
-
-
-
 📊 AtliQ Telecom Data Analysis Dashboard
 🚀 Project Overview
 This Power BI dashboard presents a comprehensive analysis of AtliQ Telecom’s performance, focusing on key metrics such as Revenue, Market Share, and User Behavior before and after the introduction of 5G. The dashboard serves as a powerful tool for executives and analysts to derive data-driven insights for strategic decision-making.
