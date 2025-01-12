@@ -1,41 +1,35 @@
-AtliQ Telecom Dashboard
+                                                           AtliQo Telecom Analysis
+                                                           
 Live Dashboard- [Link](https://app.powerbi.com/groups/me/reports/3ef71c74-9d58-4d97-8454-2e5dd401c98a/b4fdd2effe38c4f0ef66?experience=power-bi)
 
-AtliQ Telecom Dashboard
-📊 Overview
-The AtliQ Telecom Dashboard is an interactive business intelligence tool built using Power BI, designed to provide clear, actionable insights into AtliQ Telecom's performance. The dashboard highlights key metrics such as revenue, market share, user behavior, and plan performance, with a special focus on the impact of 5G on various business aspects.
+Problem statement
 
-✨ Key Features
-Revenue Analysis: Explore revenue trends across major cities before and after 5G deployment.
-Market Share: Compare AtliQ’s market share with competitors like Britel and DADAFONE, and analyze the shifts after 5G rollout.
-User Activity: Understand the behavior of users, including metrics for active and unsubscribed users, and how these numbers changed after 5G implementation.
-Plan KPIs: Review performance of different telecom plans, analyzing revenue before and after 5G introduction.
-🖥️ Dashboards
-Total Revenue Dashboard: A comprehensive view of revenue changes across cities, with pre- and post-5G comparisons.
-Market Share Dashboard: Visualizes market share distribution among major telecom providers.
-User Analysis Dashboard: Tracks user activity, churn rates, and engagement.
-Plan KPIs Dashboard: Provides insights into telecom plan performance before and after 5G.
-📈 Key Insights
-Growth in Subscriptions: Cities like Jaipur and Chandigarh experienced significant user growth after the 5G introduction.
-Market Share Shifts: AtliQ faced a slight dip in market share post-5G, indicating increased competition.
-Revenue Impact: Some cities like Bangalore and Pune saw a rise in revenue post-5G, while others, like Delhi, witnessed a decline.
-⚙️ Technology Stack
-Power BI for creating interactive visualizations.
-DAX for complex data calculations and measures.
-SQL for querying and integrating data from AtliQ's databases.
-🛠 How to Use
-Clone this repository or download the dashboard file.
-Open the file in Power BI Desktop.
-Use the dashboard to filter data by city, time period, or plan for specific insights.
-Explore key metrics like ARPU, total revenue, and monthly active users using the interactive visuals.
-🚀 Future Improvements
-Real-time data: Integrating live data streams for more up-to-date insights.
-Predictive Analytics: Adding models to forecast revenue and user trends.
-Customer Segmentation: More granular data on customer behavior and demographics.
-📩 Contact
-For any questions or further details, reach out to:
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities: Surat, Ahmedabad, and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
 
-Chandan Chatterjee
-LinkedIn
-Email
+AtliQ Mart is currently facing a problem where a few key customers did not extend the annual contract due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ‘On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
+
+The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
+
+Task List
+
+Peter Pandey is the data analyst in the supply chain team who joined Atliq Mart recently. He has been briefed about the task in the stakeholder business review meeting. Now imagine yourself as Peter Pandey and play the role of the new data analyst who is excited to build this dashboard and perform the following tasks:
+
+Create the metrics according to the metrics list.
+
+Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in the form of a comic.
+
+Create relevant insights that are not provided in the metric list/stakeholder meeting.
+
+Data Model
+
+![Screenshot 2025-01-12 192724](https://github.com/user-attachments/assets/e870f0f5-413c-4871-a276-b317c872a7b2)
+
+Dashboard
+
+![AtliQ Telecom_page-0001](https://github.com/user-attachments/assets/89f1eb85-c094-438c-9e6f-4ab7fcf80266)
+![AtliQ Telecom_page-0002](https://github.com/user-attachments/assets/bae799dc-694e-48bb-acd9-397fa1cf9ea0)
+![AtliQ Telecom_page-0003](https://github.com/user-attachments/assets/a24bf7a1-f53c-4627-b265-2863336d254e)
+![AtliQ Telecom_page-0004](https://github.com/user-attachments/assets/db204b2f-7a4e-405f-87f2-a1669bb60957)
+![AtliQ Telecom_page-0005](https://github.com/user-attachments/assets/7a29367f-89c4-491f-b9cf-eaf5c3c5023b)
+
 
