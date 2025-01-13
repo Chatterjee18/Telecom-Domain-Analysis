@@ -1,14 +1,14 @@
-                                                           AtliQo Telecom Analysis
+# AtliQo Telecom Analysis
                                                            
 Live Dashboard- [Link](https://app.powerbi.com/groups/me/reports/3ef71c74-9d58-4d97-8454-2e5dd401c98a/b4fdd2effe38c4f0ef66?experience=power-bi)
 
 Problem statement
 
-AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities: Surat, Ahmedabad, and Vadodra. They want to expand to other metro/tier1 cities in the next 2 years.
+AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities: Surat, Ahmedabad, and Vadodara. In the next two years, it plans to expand to other metro/tier 1 cities.
 
-AtliQ Mart is currently facing a problem where a few key customers did not extend the annual contract due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ‘On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
+AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ‘On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
 
-The Supply Chain team decided to use a standard approach to measure the service level in which they will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’ and OnTime in full (OTIF) % of the customer orders on a daily basis against the target service level set for each customer.
+The Supply Chain team decided to use a standard approach to measuring the service level. They will measure ‘on-time delivery (OT) %’, ‘In-full delivery (IF) %’, and ‘OnTime in full (OTIF) %’ of the customer orders on a daily basis against the target service level set for each customer.
 
 Task List
 
@@ -20,11 +20,11 @@ Create a dashboard according to the requirements provided by stakeholders in the
 
 Create relevant insights that are not provided in the metric list/stakeholder meeting.
 
-Data Model
+# Data Model
 
 ![Screenshot 2025-01-12 192724](https://github.com/user-attachments/assets/e870f0f5-413c-4871-a276-b317c872a7b2)
 
-Dashboard
+# Dashboard
 
 ![AtliQ Telecom_page-0001](https://github.com/user-attachments/assets/89f1eb85-c094-438c-9e6f-4ab7fcf80266)
 ![AtliQ Telecom_page-0002](https://github.com/user-attachments/assets/bae799dc-694e-48bb-acd9-397fa1cf9ea0)
